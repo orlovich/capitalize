@@ -1,7 +1,7 @@
 # Capitalize string
 
 ## Требования
-- PHP 7.4
+- PHP 7.0
 
 ## Установка
 
